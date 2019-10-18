@@ -14,8 +14,11 @@
   "dependencies": {
     "isomorphic-unfetch": "^3.0.0",
     "next": "^9.0.7",
+    "next-redux-wrapper": "^4.0.1",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
-    "react-feather": "^2.0.3"
+    "react-feather": "^2.0.3",
+    "react-redux": "^7.1.1",
+    "redux": "^4.0.4"
   }
 }
